@@ -189,22 +189,6 @@ http://104.250.154.42:8080/ZZ_hbo/ZZ_hbo.m3u8
 http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 #EXTINF:-1 tvg-id="7143" tvg-name="BabyFirst" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BabyFirst.png" group-title="港台频道",BabyFirst台湾
 http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
-#EXTINF:-1 tvg-id="7182" tvg-name="智林体育" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/智林体育台.png" group-title="港台体育",智林体育台
-http://fang.fhzyy.com/live/0ad267a08160450897e2f0ee5fb512a6.flv
-#EXTINF:-1 tvg-id="6189" tvg-name="BBCEarth" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCEarth.png" group-title="港台频道",BBC Earth
-http://fang.fhzyy.com/live/260087c6636049bbbc187027547c905d.flv
-#EXTINF:-1 tvg-id="7131" tvg-name="龙华影剧" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龙华影剧.png" group-title="港台频道",龙华影剧
-http://fang.fhzyy.com/live/88d56d76acf94f7aa0cc0f6d86befcf7.flv
-#EXTINF:-1 tvg-id="7130" tvg-name="龙华经典" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龙华经典.png" group-title="港台频道",龙华经典
-http://fang.fhzyy.com/live/0cf7da04cec6413ca056b8d1f4c5070d.flv
-#EXTINF:-1 tvg-id="7127" tvg-name="龙华戏剧" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龙华戏剧.png" group-title="港台频道",龙华戏剧
-http://fang.fhzyy.com/live/481fc13a13764c6db90bfbba0f204dcd.flv
-#EXTINF:-1 tvg-id="7126" tvg-name="龙华偶像" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龙华偶像.png" group-title="港台频道",龙华偶像
-http://fang.fhzyy.com/live/8c05a9e518e84475b1c89b69f5fc27c2.flv
-#EXTINF:-1 tvg-id="7132" tvg-name="龙华洋片" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龙华洋片.png" group-title="港台频道",龙华洋片
-http://fang.fhzyy.com/live/6639ab28161344eeab037de23d4ef860.flv
-#EXTINF:-1 tvg-id="7128" tvg-name="龙华电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龙华电影.png" group-title="港台频道",龙华电影
-http://fang.fhzyy.com/live/bc62396925364199b57eeb8703630532.flv
 #EXTINF:-1 tvg-id="100100" tvg-name="反馈交流群" tvg-logo="https://bbsok.cf/wp-content/uploads/2019/10/IMG_20191008_104616-768x312.png" group-title="港台频道",反馈交流群
 http://51buy.giize.com/1.mp4
 #EXTINF:-1 tvg-id="1968" tvg-name="DOX院线" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOX-CINEMA.png" group-title="DOX轮播",DOX院线
