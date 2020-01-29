@@ -130,8 +130,10 @@ HBO强档,mitv://198.255.74.87:9906/5dc08f0d000512f301b7bd94cf14a0de.ts
 HBO,vjms://58.215.133.185:8500:3502/live/cid=261
 HBO,vjms://23.237.33.155:8500:3502/live/cid=261
 HBO,mitv://198.255.74.87:9906/5dc08f1000069e8c01b7c9b1fc8f2c36.ts
+东森电影,tvbus://12E14tpq7uV1zLRdMHFYh3FdyURG5XkWi53smDeAbJcfzxHpgYp
 东森电影,p8p://0198.02686.cc:16871/5d1a69af0009735f11bdcb2402d2abda.ts
 东森电影,p2p://51.79.41.138:18912/5c7249d3000cb8ea1d57e9650d7148b7.ts
+东森洋片,tvbus://1jqrNZ8dt84AhKCLVypeBgfHwfpMSvsyFqvSX6u4FfSbP9JqCv
 靖天电影台,p8p://0198.02686.cc:16871/5d1a69d4000d791711be5cb4cbc75c73.ts
 龙华经典,p2p://fccsovh.pvbox.live:18912/5b14090b0001269c17d0ee93023202c3
 美亚电影台,P2p://190.2.146.92:18912/5c724a0e000442831d58cdaa6a2c5c52.ts
@@ -166,12 +168,11 @@ AXN,vjms://23.237.33.155:8500:3502/live/cid=2
 CINEMAX,mitv://198.255.74.87:9906/5dc08f0c000d7d5501b7bbd3536df5c6.ts
 CinemaWorld,mitv://198.255.74.87:9906/5dc08f10000960c801b7ca669ad1a62d.ts
 FOX CRIME,mitv://198.255.74.87:9906/5dc08f0c000f26df01b7bc4033c0db54.ts
+FOX动作电影,tvbus://12rkwBGpNvaenr1ERtQvtqPtr9yFZh8x9ayYwGxVFRDeY81EXjo
 CatchPlay电影,mitv://198.255.74.87:9906/5dc08f0200009eff01b791787b4828f5.ts
-FX,mitv://198.255.74.87:9906/5dc08f0d00036abb01b7bd27df32bfaf.ts
 FX,p8p://0198.02686.cc:16871/5d1a69a50009208511bda3ff8356848f.ts
 BLUEANT,p8p://0198.02686.cc:16871/5d1a69a60004767211bda6b5be685208.ts
 天映经典,p2p://fccsovh.pvbox.live:18912/5b3c4f9b00031383627eef60721e1738
-天映频道,mitv://198.255.74.87:9906/5dc08f10000b0c4f01b7cad355c99671.ts
 东森戏剧,P2p://190.2.146.92:18912/5c724882000704081d52c386798d4d25.ts
 好莱坞电影,http://192.200.120.82:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
 好莱坞电影,P2p://190.2.146.92:18912/5c7249e2000125281d5820ff23a165d1.ts
@@ -203,6 +204,7 @@ TVBS精采台,p8p://0198.02686.cc:16871/5d1a69ab0004fab811bdba5fa309b278.ts
 民视,P2p://190.2.146.92:18912/5c72483f0003db4b1d51bcf349367c26.ts
 民视,vjms://23.237.33.155:8500:3502/live/cid=226
 民视,mitv://fccsovh.pvbox.live:18912/5c72483f0003db4b1d51bcf349367c26
+中视,tvbus://1TCAXGna1HLHhdrrCCbJWufvYbBers5fNGx1hdk6xW58irJpc9
 中视,P2p://190.2.146.92:18912/5c72484b000b1d091d51edb7087b7686.ts
 中视,vjms://23.237.33.155:8500:3502/live/cid=452
 台视,vjms://23.237.33.155:8500:3502/live/cid=453
@@ -212,12 +214,14 @@ TVBS精采台,p8p://0198.02686.cc:16871/5d1a69ab0004fab811bdba5fa309b278.ts
 三立台湾,p8p://0198.02686.cc:16871/5d1a69ae00025bef11bdc56ba098b443.ts
 三立台湾,vjms://23.237.33.155:8500:3502/live/cid=437
 中天娱乐,http://192.154.103.74:8080/ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
+八大综合,http://cdn.5itv.tv//ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
 八大综合,http://192.200.120.82:8080/ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
 八大第一,vjms://58.215.133.185:8500:3502/live/cid=441
 八大第一,vjms://23.237.33.155:8500:3502/live/cid=441
 JET综合,P2p://190.2.146.92:18912/5c724892000e3e1c1d5303da4a3c6c26.ts
 JET综合,p8p://0198.02686.cc:16871/5d1a69a7000abe1711bdac390219d138.ts
 三立综合台,p8p://0198.02686.cc:16871/5d1a69fa0007d2f011beefb295d4d371.ts
+中天综合,http://cdn.5itv.tv//ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
 中天综合,http://104.250.154.42:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
 中天亚洲 ,P2p://190.2.146.92:18912/5c724839000d2f361d51a7e41eb00016.ts
 壹综合,p8p://0198.02686.cc:16871/5d1a69b70007631411bde9dd9eaae997.ts
@@ -271,7 +275,7 @@ Star Sports,rtmp://58.200.131.2:1935/livetv/starsports
 探索科学,vjms://23.237.33.155:8500:3502/live/cid=457
 探索EVE,mitv://198.255.74.87:9906/5dc08f090004c52401b7ade0b5732b25.ts
 动物星球,vjms://58.215.133.185:8500:3502/live/cid=3
-动物星球,mitv://198.255.74.87:9906/5dc08f05000df9b701b7a09b8365395a.ts
+动物星球,http://cdn.5itv.tv//ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8
 动物星球,p8p://0198.02686.cc:16871/5d1a69da000a2acf11be734ba3f44eda.ts
 动物星球,vjms://23.237.33.155:8500:3502/live/cid=3
 TLC旅游生活,vjms://58.215.133.185:8500:3502/live/cid=103
