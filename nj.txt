@@ -329,11 +329,12 @@ MOMO亲子台,P2p://190.2.146.92:18912/5c7248620002c4fd1d52456c75ed6b55.ts
 MOMO亲子台,p2p://190.2.146.92:18912/5c7248620002c4fd1d52456c75ed6b55
 Disney,P2p://51.79.41.138:18912/5b1409f30004f6ec17d479cd524c4642.ts
 
-精彩4K,#genre#
-BesTV 4k,http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
-纯享 4K,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
-CCTV 4K,http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
-爱上4K,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlist.m3u8
+精彩_4K,#genre#
+BesTV_4k,http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
+纯享_4K,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
+CCTV_4K,http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
+爱上_4K,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlist.m3u8
+
 
 庆余年全,#genre#
 第1集,http://personcloud.woican.cn/A%3A/video/teleplay/qinyunian/1.mp4
